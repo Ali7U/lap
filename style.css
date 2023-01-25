@@ -25,3 +25,10 @@ nav{
 h2{
     color: #333;
 }
+
+ul{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 150px;
+}
